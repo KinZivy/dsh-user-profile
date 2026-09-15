@@ -1,0 +1,15 @@
+{
+  "name": "user-profile-plugin",
+  "version": "0.1.0",
+  "description": "DSH plugin for user memory and project update logs",
+  "main": "src/my-plugin.ts",
+  "dsh": {
+    "bundle": true
+  },
+  "scripts": {
+    "dev": "pnpm dsh web --patch ./plugin/cordis.yml"
+  },
+  "keywords": ["deepseek-harness", "plugin", "user-profile"],
+  "author": "Pzivy",
+  "license": "MIT"
+}

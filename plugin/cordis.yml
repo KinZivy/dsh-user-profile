@@ -1,0 +1,3 @@
+- insert:
+    - id: user-profile
+      name: 'D:\\Projects\\AI_Workspace\\dsh-user-profile\\plugin\\src\\my-plugin.ts'
